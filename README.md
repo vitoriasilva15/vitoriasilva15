@@ -1,23 +1,15 @@
 
-Bem-vindo ao meu perfil! Sou estudante no IFRN e estou sempre em busca de aprender e crescer na área de tecnologia. 💻
 
-## 🧑‍🎓 Sobre mim
-- Estudante do IFRN
-- Curso básico de Informática
 
-## 🌱 Aprendendo
-Atualmente, estou focado em aprimorar minhas habilidades em:
-- HTML
-- Desenvolvimento Web
-- Programação
+## 🎀Vitória Silva
+- 🎓Estudante do curso Técnico de informática no IFRN
+- 💻Curso básico de Informática
 
-## 🚀 Projetos
-Aqui você encontrará alguns dos meus projetos:
-- 
-- 
 
-## 📫 Vamos nos conectar!
-Sinta-se à vontade para me contatar:
-- 
-- 
+## Entre em contato📞
+Para entrar em contato:
+- ✉️ vs917212@gmail.com
+- 🔗https://www.linkedin.com/in/vitoria-silva-53182721b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+- _vitoriasilva76
+  
 
