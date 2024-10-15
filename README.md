@@ -1,16 +1,23 @@
-## Hi there 👋
 
-<!--
-**vitoriasilva15/vitoriasilva15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bem-vindo ao meu perfil! Sou estudante no IFRN e estou sempre em busca de aprender e crescer na área de tecnologia. 💻
 
-Here are some ideas to get you started:
+## 🧑‍🎓 Sobre mim
+- Estudante do IFRN
+- Curso básico de Informática
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Aprendendo
+Atualmente, estou focado em aprimorar minhas habilidades em:
+- HTML
+- Desenvolvimento Web
+- Programação
+
+## 🚀 Projetos
+Aqui você encontrará alguns dos meus projetos:
+- 
+- 
+
+## 📫 Vamos nos conectar!
+Sinta-se à vontade para me contatar:
+- 
+- 
+
