@@ -2,7 +2,7 @@
 
 
 ## 🎀Vitória Silva
-- 🎓Estudante do curso Técnico de informática no IFRN
+- 🎓Estudante do curso Técnico de Informática no IFRN
 - 💻Curso básico de Informática
 
 
