@@ -2,8 +2,9 @@
 
 
 ## 🎀Vitória Silva
-- 🎓Estudante do curso Técnico de Informática no IFRN
-- 💻Curso básico de Informática
+- 🎓Técnica em Informática | IFRN
+- 💻 Estudante do curso Ciência da Computação | UEPB
+  
 
 
 ## Entre em contato📞
